@@ -10,7 +10,7 @@ int factorial();
 int main() {
   int choice; 
   int n1,n2,ans=0;
-  printf("Select the operation : ");
+  printf("Select the operation\n: ");
   printf("1.Additon\n 2.Subtraction\n 3.Multplication\n 4.Division\n 5.Modulo\n 6.Power\n 7.Factorial\n");
   scanf("%d",&choice);
 
