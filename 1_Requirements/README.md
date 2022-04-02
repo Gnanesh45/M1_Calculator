@@ -53,3 +53,10 @@ threat in the upcoming dynamic world.
 |HLR03|The system sould able perform the given operation|technical|
 |HLR04|The system should provide correct result|technical|   
 
+## LOW LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- | 
+|LLR01|User input|technical|  
+|LLR02|Clean UI|technical|
+|LLR03|User friendly|technical|
+|LLR04|Unlimited Attempts|technical|   
