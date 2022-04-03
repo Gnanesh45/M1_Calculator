@@ -14,6 +14,10 @@ Code Grade-Codiga
 
 ![Code Grade](https://api.codiga.io/project/32511/status/svg)
 
+Valgrind
+
+[![Valgrind](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/valgrind.yml)
+
 Build
 
 [![Build CI - Linux](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml)
