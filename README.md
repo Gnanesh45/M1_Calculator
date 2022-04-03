@@ -24,6 +24,10 @@ cppcheck
 
 [![Cppcheck Analysis](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(3).yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(3).yml)
 
+Unity
+
+[![Unit Testing - Unity](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(5).yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(5).yml)
+
 
 # Folder Structure
 Folder             | Description
