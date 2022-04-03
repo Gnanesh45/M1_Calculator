@@ -9,3 +9,5 @@ The input includes the command such as we can give numbers based on the operatio
 |Code Quality score|Code Grade|
 |------|----|
 |![Code Quality score](https://api.codiga.io/project/32511/score/svg)|![Code Grade](https://api.codiga.io/project/32511/status/svg)|
+
+
