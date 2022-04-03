@@ -6,10 +6,21 @@ The input includes the command such as we can give numbers based on the operatio
 
 # Badges
 
-|Code Quality score|Code Grade-Codiga|Build|
-|------|----|-|
-|![Code Quality score](https://api.codiga.io/project/32511/score/svg)|![Code Grade](https://api.codiga.io/project/32511/status/svg)|[![Build CI - Linux](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml)|
+Code Quality score
 
+![Code Quality score](https://api.codiga.io/project/32511/score/svg)
+
+Code Grade-Codiga
+
+![Code Grade](https://api.codiga.io/project/32511/status/svg)
+
+Build
+
+[![Build CI - Linux](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml)
+
+cppcheck
+
+[![CppcheckAnalysis](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml)
 
 # Folder Structure
 Folder             | Description
