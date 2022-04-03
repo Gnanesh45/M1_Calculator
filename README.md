@@ -6,9 +6,9 @@ The input includes the command such as we can give numbers based on the operatio
 
 # Badges
 
-|Code Quality score|Code Grade-Codiga|
-|------|----|
-|![Code Quality score](https://api.codiga.io/project/32511/score/svg)|![Code Grade](https://api.codiga.io/project/32511/status/svg)|
+|Code Quality score|Code Grade-Codiga|Build|
+|------|----|-|
+|![Code Quality score](https://api.codiga.io/project/32511/score/svg)|![Code Grade](https://api.codiga.io/project/32511/status/svg)|[![Build CI - Linux](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml)|
 
 
 # Folder Structure
