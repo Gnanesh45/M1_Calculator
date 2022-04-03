@@ -22,8 +22,7 @@ Build
 
 cppcheck
 
-[![CppcheckAnalysis](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml)
-
+[![Cppcheck Analysis](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(3).yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(3).yml)
 
 
 # Folder Structure
