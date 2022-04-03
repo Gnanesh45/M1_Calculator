@@ -2,5 +2,6 @@
 
 int multiplication(int a,int b)
 {
-    return (a*b);    //returning  result to main funtion 
+    int ans=(a*b);
+    return ans;    //returning  result to main funtion 
 }
