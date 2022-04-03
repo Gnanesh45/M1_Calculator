@@ -1,7 +1,7 @@
 #include<stdio.h>
 int modulus(int a,int b)
 {
-    
-   return (a%b);//returning modulus value to main funtion 
+    int ans=(a%b);
+   return ans;//returning modulus value to main funtion 
     
 }
