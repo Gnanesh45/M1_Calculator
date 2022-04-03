@@ -18,9 +18,13 @@ Build
 
 [![Build CI - Linux](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp.yml)
 
+[![C Windows Build](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(2).yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/c-cpp(2).yml)
+
 cppcheck
 
 [![CppcheckAnalysis](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml/badge.svg)](https://github.com/Gnanesh45/M1_Calculator/actions/workflows/cppcheck-analysis.yml)
+
+
 
 # Folder Structure
 Folder             | Description
