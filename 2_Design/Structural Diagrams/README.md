@@ -1,4 +1,4 @@
-# Structure Diagrams
+# Structural Diagrams
 
 # Component Diagram   
 
